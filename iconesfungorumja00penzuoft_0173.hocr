@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconesfungorumja00penzuoft/iconesfungorumja00penzuoft_0173.png"; bbox 0 0 2684 4438; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2043 87 2632 176">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2043 87 2632 176">
+     <span class='ocr_line' id='line_1_1' title="bbox 2043 87 2632 176; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 2043 87 2250 174; x_wconf 83' lang='lat' dir='ltr'><strong>Tab.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2315 88 2632 176; x_wconf 61' lang='lat' dir='ltr'>xvm?</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1467 2110 2529 2168">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1467 2110 2529 2168">
+     <span class='ocr_line' id='line_1_2' title="bbox 1467 2110 2529 2168; baseline 0.003 -14"><span class='ocrx_word' id='word_1_3' title='bbox 1467 2111 1508 2154; x_wconf 90' lang='lat'>2.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1543 2110 1846 2168; x_wconf 86' lang='lat' dir='ltr'>Hypoxylon</span> <span class='ocrx_word' id='word_1_5' title='bbox 1878 2111 2116 2156; x_wconf 87' lang='lat' dir='ltr'>rubellum</span> <span class='ocrx_word' id='word_1_6' title='bbox 2150 2112 2288 2157; x_wconf 85' lang='lat' dir='ltr'>Penz.</span> <span class='ocrx_word' id='word_1_7' title='bbox 2321 2115 2366 2157; x_wconf 87' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_8' title='bbox 2398 2111 2529 2157; x_wconf 87' lang='lat' dir='ltr'>Sacc.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1826 4047 2527 4049">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1826 4047 2527 4049">
+     <span class='ocr_line' id='line_1_3' title="bbox 1826 4047 2527 4049; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 1826 4047 2527 4049; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 371 2684 4334">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 371 2684 4334">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 371 2684 4334; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 371 2684 4334; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
